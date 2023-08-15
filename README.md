@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xd1l
-- 👀 I’m interested incWeb development, Data Science and ML
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on a web dev project
+- 👋 Hi, I’m Adil.
+- 👀 I’m interested in Web development, Data Science and ML.
+- 🌱 I’m currently learning Web development & Data Analytics.
+- 💞️ I’m looking to collaborate on a Web Dev projects.
 - 📫 How to reach me : Email - maev.csb2125@saintgits.org
 
 <!---
