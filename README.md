@@ -1,6 +1,6 @@
 # 💫 About Me: I'm Adil
 3rd Year CSE Student | 📊 Data Science Enthusiast | 🤖 Machine Learning Enthusiast 🔭 
-<br>Exploring the world of data, one byte at a time! Currently pursuing my Bachelor's in Computer Science and Engineering, with a keen interest in data science, data analytics, and machine learning.<br><br>- 🔭 I’m currently working on a **Data Analytics project**<br><br>- 🌱 I’m currently learning **Web development**<br><br>- 👯 I’m looking to collaborate on **anything Data**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/xd1l](https://github.com/adilzubair)<br><br>- 📫 How to reach me **maev.csb2125@saintgits.org**
+<br>Exploring the world of data, one byte at a time! Currently pursuing my Bachelor's in Computer Science and Engineering, with a keen interest in data science, data analytics, and machine learning.<br><br>- 🔭 I’m currently working on a **Data Analytics project**<br><br>- 🌱 I’m currently learning **Web development**<br><br>- 👯 I’m looking to collaborate on **anything Data**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/adilzubair](https://github.com/adilzubair)<br><br>- 📫 How to reach me **maev.csb2125@saintgits.org**
 
 
 ## 🌐 Socials:
