@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a GenAI project<br>👯 I’m looking to collaborate on Web development<br>🤝 I’m looking for help with anything AI<br>🌱 I’m currently learning mern stack<br>👨‍💻 All of my projects are available at https://github.com/adilzubair<br>📫 How to reach me maev.csb2125@saintgits.org
+🔭 I’m currently working on a GenAI project<br>👯 I’m looking to collaborate on Web development<br>🤝 I’m looking for help with anything AI<br>🌱 I’m currently learning mern stack<br>👨‍💻 All of my projects are available at https://github.com/adilzubair<br>📫 How to reach me maev.csb2125@saintgits.org <br> www.adil.website
 
 
 ## 🌐 Socials:
