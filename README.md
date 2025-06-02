@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Blockchain project<br>👯 I’m looking to collaborate on Web development<br>👨‍💻 All of my projects are available at https://github.com/adilzubair<br>📫 How to reach me muhamedadil03@gmail.com 
+🔭 I’m currently working on as a Full Stack Developer at Cooee<br>👯 I’m looking to collaborate on Web development<br>👨‍💻 All of my projects are available at https://github.com/adilzubair<br>📫 How to reach me muhamedadil03@gmail.com 
 
 
 ## 🌐 Socials:
