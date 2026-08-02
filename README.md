@@ -1,6 +1,6 @@
 # Hi, I'm Muhamed Adil
 
-`Dubai, UAE` | `Software Developer at Greentruth Technology` | building AI agents, RAG systems, backend products, and developer-facing tools
+`Dubai, UAE` | `AI Developer Engineer at CyberCore` | building AI agents, RAG systems, backend products, and developer-facing tools
 
 > I like building practical software around AI, automation, retrieval systems, and productized engineering. Most of my work sits somewhere between intelligent systems, full-stack apps, and experiments that turn into real tools.
 
