@@ -1,77 +1,60 @@
 # Hi, I'm Muhamed Adil
 
-`Dubai, UAE` | `AI Developer Engineer at CyberCore` | building AI agents, RAG systems, backend products, and developer-facing tools
+**AI Engineer at Cyber Core Technology** · Abu Dhabi, UAE · [muhamedadil.com](https://muhamedadil.com)
 
-> I like building practical software around AI, automation, retrieval systems, and productized engineering. Most of my work sits somewhere between intelligent systems, full-stack apps, and experiments that turn into real tools.
+I build LLM systems that hold up in production — retrieval, agents and fine-tuned models — and run the GPU infrastructure that serves them.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Current Focus
+## Now
 
-- Building AI agents and agentic workflows that do real work
-- Designing RAG systems for documents, local knowledge bases, and grounded assistants
-- Shipping backend-heavy products with Python, Go, APIs, and cloud infrastructure
-- Turning experiments into usable products instead of leaving them as notebooks
+- Building internal AI applications at **Cyber Core**, from implementation through deployment
+- Running a GPU-backed Kubernetes cluster: bringing up GPU nodes, and deploying and serving models on it
+- Previously: LLM decision support, evaluation and LoRA fine-tuning at Greentruth; Go/Python services at Cooee; OpenVINO inference at Intel
 
-## Selected Projects
+## Featured
 
-### AI Agents, RAG, and LLM Systems
+| Project | What it is |
+| --- | --- |
+| [**Cortex**](https://github.com/adilzubair/cortex) | Multi-agent coding assistant for your own codebase — LangGraph orchestration, incremental SHA-256 indexing, LSP analysis and reranked retrieval. Runs on Ollama or OpenAI. |
+| [**Loomin-Docs**](https://github.com/adilzubair/Loomin-Docs) | Air-gapped collaborative editor with a grounded AI assistant: FAISS retrieval over uploaded files, PII masking, Ollama models, and an offline Docker bundle for RHEL 9. |
+| [**Scout**](https://github.com/adilzubair/scout) · [site](https://scout.muhamedadil.com/) | Private launcher for Windows 11 with optional on-device AI — decision models for ranking and intent, EmbeddingGemma for multimodal search. Public beta. |
+| **FindIt** · *private preview* | Offline multimodal search that travels with an external drive: on-device embeddings for photos, video, documents and audio, Whisper transcription, face search, and hybrid ANN + full-text retrieval. |
+| [**AI Harness Basics**](https://github.com/adilzubair/AI-harness-basics) | An agent harness built up in five runnable stages — tool loop, guardrails, environment, verification and retries, deterministic recovery. |
 
-- [agents-from-scratch](https://github.com/adilzubair/agents-from-scratch) - a practical collection of agent building blocks and workflows covering prompt chaining, routing, parallelization, orchestration, tool use, and RAG.
-- [local-rag-agents](https://github.com/adilzubair/local-rag-agents) - a collection of local RAG systems built with LangChain, LangGraph, FastAPI, Streamlit, and ChromaDB.
-- [Loomin-Docs](https://github.com/adilzubair/Loomin-Docs) - an offline-first collaborative writing workspace with local AI assistance, retrieval over uploaded files, and air-gapped deployment support.
-- [Odin-AI-Trading-Companion](https://github.com/adilzubair/Odin-AI-Trading-Companion) - an AI trading platform built around multi-agent analysis, real-time monitoring, alerts, and decision support.
-- [cortex](https://github.com/adilzubair/cortex) - a sophisticated AI coding assistant that combines multi-agent orchestration with RAG to provide intelligent, context-aware answers about a codebase while running locally with Ollama or optionally with OpenAI models.
-- [transformer-lab](https://github.com/adilzubair/transformer-lab) - a comprehensive implementation of language models from scratch, progressing from simple bigram models to full GPT-style transformers.
-- [agnews-distilbert](https://github.com/adilzubair/agnews-distilbert) - a DistilBERT text classification project comparing full fine-tuning with LoRA on the AG News dataset.
-- [Bitmasters_Intel_LLM](https://github.com/adilzubair/Bitmasters_Intel_LLM) - a TinyLlama + OpenVINO chatbot project tuned for Intel AI laptops with a Gradio interface.
-- [phi3-medical-qlora](https://github.com/adilzubair/phi3-medical-qlora) - a parameter-efficient fine-tuning project exploring medical-domain adaptation with QLoRA.
+## Also built
 
-### Products and Applications
+- [agents-from-scratch](https://github.com/adilzubair/agents-from-scratch) — agent patterns from the ground up: tool use, RAG, routing, parallelization, orchestration
+- [local-rag-agents](https://github.com/adilzubair/local-rag-agents) — local RAG systems with Docling, LangGraph, FastAPI and ChromaDB
+- [phi3-medical-qlora](https://github.com/adilzubair/phi3-medical-qlora) — QLoRA fine-tuning of Phi-3-mini on medical Q&A, plus [GPT-2 LoRA](https://github.com/adilzubair/gpt2-medium-lora-instruct) and [DistilBERT PEFT](https://github.com/adilzubair/agnews-distilbert) experiments
+- [Bitmasters_Intel_LLM](https://github.com/adilzubair/Bitmasters_Intel_LLM) — TinyLlama optimised with OpenVINO for CPU inference on Intel AI laptops
+- [Odin](https://github.com/adilzubair/Odin-AI-Trading-Companion) — multi-agent trading companion with autonomous trading and alerts
+- [deckspring](https://github.com/adilzubair/deckspring) — generate and refine slide decks locally with your own model
+- [iftarinuae](https://github.com/adilzubair/iftarinuae) · [site](https://www.iftarinuae.com/) — community platform for Iftar spots across the UAE: 150k+ views, 40k+ visitors, close to 200 places added by the community
 
-- [iftarinuae](https://github.com/adilzubair/iftarinuae) - a community-driven platform to discover and share Iftar spots across the UAE, reaching 150k+ views, 40k+ visitors, and close to 200 places added by the community.
-- [Portflow](https://github.com/adilzubair/portflow) - a multi-market portfolio tracker built with Next.js and Supabase for stocks, ETFs, crypto, mutual funds, and cross-region holdings in one dashboard.
-- [QuickEval](https://github.com/adilzubair/QuickEval) - an AI-powered answer sheet evaluation system for educators with structured scoring, feedback, and reporting.
-- [Ledger-True](https://github.com/adilzubair/Ledger-True) - an anomaly detection app built with FastAPI, React, MongoDB, and DeepSeek for Excel-based analysis and dashboards.
-- [Crashchain](https://github.com/adilzubair/Crashchain) - a blockchain-backed vehicular forensics tool for tamper-resistant crash data capture, verification, and reporting.
-- [BitMasters](https://github.com/adilzubair/BitMasters) - an exam-prep web app that analyzes previous-year question papers and surfaces the most important topics for students.
-- [propease](https://github.com/adilzubair/propease) - a modern React application with authentication flows, UI components, and backend integrations.
-- [portfolio](https://github.com/adilzubair/portfolio) - my personal portfolio site showcasing projects, experience, and frontend polish.
-- [portfolio-website](https://github.com/adilzubair/portfolio-website) - a VS Code-themed portfolio experiment that pushed the design direction further.
-- [BeyondTheLoop](https://github.com/adilzubair/BeyondTheLoop) - a WhatsApp-first food ordering and delivery management concept focused on operational automation.
+## Research & writing
 
-### Systems, Learning, and Experiments
+- [Modern Trends and Recent Applications of Hyperspectral Imaging: A Review](https://doi.org/10.3390/technologies13050170) — *Technologies*, 2025
+- [Advancing Urban Development: Applications of Hyperspectral Imaging in Smart City Innovations and Sustainable Solutions](https://doi.org/10.3390/smartcities8020051) — *Smart Cities*, 2025
+- [How Cortex Reads Your Code Like You Do](https://muhamedadil.com/writing/how-cortex-reads-your-code) — on building a coding assistant that understands code structure
 
-- [job-search-automation](https://github.com/adilzubair/job-search-automation) - an automation project built around streamlining job search workflows with n8n.
-- [ML-Notes](https://github.com/adilzubair/ML-Notes) - a repository of machine learning notes, experiments, and study material.
-- [deep-learning-notebook](https://github.com/adilzubair/deep-learning-notebook) - a larger archive of deep learning notebooks and hands-on model work.
+## Activity
 
-
-## What I'm Doing
-
-- Exploring AI-native product development and automation-heavy workflows
-- Building projects across ML, backend systems, fintech, and developer tools
-- Iterating on portfolio-quality web experiences at [muhamedadil.com](https://muhamedadil.com)
-- Sharing my work publicly while continuing to build more ambitious private systems
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/adilzubair)
+![GitHub contribution graph](https://ghchart.rshah.org/adilzubair)
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-muhamedadil.com-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://muhamedadil.com)
-[![LinkedIn](https://img.shields.io/badge/-muhamedadil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamedadil)
-[![Twitter](https://img.shields.io/badge/-adilwritescode-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/adilwritescode)
+[![Website](https://img.shields.io/badge/-muhamedadil.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://muhamedadil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhamedadil-0A66C2?style=flat-square)](https://www.linkedin.com/in/muhamedadil/)
+[![X](https://img.shields.io/badge/-@adilwritescode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/adilwritescode)
 [![Instagram](https://img.shields.io/badge/-adl.zubair-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adl.zubair)
 [![Email](https://img.shields.io/badge/-muhamedadil03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhamedadil03@gmail.com)
-
-## Philosophy
-
-> Build useful things, keep the stack sharp, and ship often.
