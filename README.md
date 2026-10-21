@@ -38,7 +38,7 @@ I build LLM systems that hold up in production — retrieval, agents and fine-tu
 - [phi3-medical-qlora](https://github.com/adilzubair/phi3-medical-qlora) — QLoRA fine-tuning of Phi-3-mini on medical Q&A, plus [GPT-2 LoRA](https://github.com/adilzubair/gpt2-medium-lora-instruct) and [DistilBERT PEFT](https://github.com/adilzubair/agnews-distilbert) experiments
 - [Bitmasters_Intel_LLM](https://github.com/adilzubair/Bitmasters_Intel_LLM) — TinyLlama optimised with OpenVINO for CPU inference on Intel AI laptops
 - [Odin](https://github.com/adilzubair/Odin-AI-Trading-Companion) — multi-agent trading companion with autonomous trading and alerts
-- [deckspring](https://github.com/adilzubair/deckspring) — generate and refine slide decks locally with your own model
+- [deckspring](https://github.com/adilzubair/deckspring) · [site](https://deckspring.muhamedadil.com/) — create and edit slide decks with AI, hosted or local, with editable PowerPoint export
 - [iftarinuae](https://github.com/adilzubair/iftarinuae) · [site](https://www.iftarinuae.com/) — community platform for Iftar spots across the UAE: 150k+ views, 40k+ visitors, close to 200 places added by the community
 
 ## Research & writing
