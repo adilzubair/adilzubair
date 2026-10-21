@@ -1,6 +1,6 @@
 # Hi, I'm Muhamed Adil
 
-**AI Engineer at Cyber Core Technology** · Abu Dhabi, UAE · [muhamedadil.com](https://muhamedadil.com)
+**AI Engineer at CyberCore Technology** · Abu Dhabi, UAE · [muhamedadil.com](https://muhamedadil.com)
 
 I build LLM systems that hold up in production — retrieval, agents and fine-tuned models — and run the GPU infrastructure that serves them.
 
