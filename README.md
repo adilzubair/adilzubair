@@ -28,7 +28,7 @@ I build LLM systems that hold up in production — retrieval, agents and fine-tu
 | [**Cortex**](https://github.com/adilzubair/cortex) | Multi-agent coding assistant for your own codebase — LangGraph orchestration, incremental SHA-256 indexing, LSP analysis and reranked retrieval. Runs on Ollama or OpenAI. |
 | [**Loomin-Docs**](https://github.com/adilzubair/Loomin-Docs) | Air-gapped collaborative editor with a grounded AI assistant: FAISS retrieval over uploaded files, PII masking, Ollama models, and an offline Docker bundle for RHEL 9. |
 | [**Scout**](https://github.com/adilzubair/scout) · [site](https://scout.muhamedadil.com/) | Private launcher for Windows 11 with optional on-device AI — decision models for ranking and intent, EmbeddingGemma for multimodal search. Public beta. |
-| **FindIt** · *private preview* | Offline multimodal search that travels with an external drive: on-device embeddings for photos, video, documents and audio, Whisper transcription, face search, and hybrid ANN + full-text retrieval. |
+| [**FindIt**](https://github.com/adilzubair/FindIt) · [site](https://findit.muhamedadil.com/) | Offline multimodal search that travels with an external drive: on-device embeddings for photos, video, documents and audio, Whisper transcription, face search, and hybrid ANN + full-text retrieval. |
 | [**AI Harness Basics**](https://github.com/adilzubair/AI-harness-basics) | An agent harness built up in five runnable stages — tool loop, guardrails, environment, verification and retries, deterministic recovery. |
 
 ## Also built
