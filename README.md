@@ -56,5 +56,4 @@ I build LLM systems that hold up in production — retrieval, agents and fine-tu
 [![Website](https://img.shields.io/badge/-muhamedadil.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://muhamedadil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhamedadil-0A66C2?style=flat-square)](https://www.linkedin.com/in/muhamedadil/)
 [![X](https://img.shields.io/badge/-@adilwritescode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/adilwritescode)
-[![Instagram](https://img.shields.io/badge/-adl.zubair-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adl.zubair)
 [![Email](https://img.shields.io/badge/-muhamedadil03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhamedadil03@gmail.com)
